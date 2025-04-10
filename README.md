@@ -1,2 +1,3 @@
-# taelormalcolm
-Taelor Malcolm's Portfolio
+# Welcome to Taelor Malcolm's Portfolio 
+
+Have a look around!
